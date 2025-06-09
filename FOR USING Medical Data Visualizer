@@ -1,0 +1,3 @@
+if __name__ == "__main__":
+    draw_cat_plot().savefig('catplot.png')
+    draw_heat_map().savefig('heatmap.png')
